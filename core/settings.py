@@ -92,8 +92,8 @@ else:
         'default': {
             'ENGINE': 'django.db.backends.postgresql_psycopg2',
             'NAME': 'django-images',
-            'USER': 'django-images',
-            'PASSWORD': 'complexpassword123',
+            'USER': 'admin',
+            'PASSWORD': 'xformation',
             'HOST': 'localhost',
             'PORT': '5432',
         }
